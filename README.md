@@ -9,8 +9,8 @@
 
 **edit Config** ( config.ini ) **API HASH ACCOUNT**
 
-> **RNU
->> chmod 777 *
->> bash install.sh
+- chmod 777 *
+
+- bash install.sh
 	
 **|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||**
