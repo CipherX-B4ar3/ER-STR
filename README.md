@@ -2,8 +2,8 @@
 
 ### [ CODER-X ]
 
-	- TELEGRAM = @EBLETSM
-	- RUBIKA   = @CipherX
+	> - TELEGRAM = @EBLETSM
+	> - RUBIKA   = @CipherX
 
 ### [ PROXY ]
 	
