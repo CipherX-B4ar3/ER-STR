@@ -5,25 +5,12 @@
 	TELEGRAM = @EBLETSM
 	RUBIKA   = @CipherX
 
-### [ PROXY ]
-	
-	EDIT LINE ↴
+## [ RUN ] 
 
-		37 ) app = Client('ER-STR',config_file="config.ini") -> app = Client('ER-STR',config_file="config.ini",proxy=proxy) 
-		
+**edit Config** ( config.ini ) **API HASH ACCOUNT**
 
-### [ EDIT ADMIN ]
-
-	EDIT LINE ↴
-
-		27 ) admin = ("1469547340") -> admin = ("YOUR_ID") REPLACE ID You
-
-
-### [ EDIT FOSH ENEMY ]
-
-	EDIT LINE ↴
-
-		20 ) Fosh = ['..','..'] -> Fosh = ['YOUR TEXT'] REPLACE TEXT
-
+> **RNU
+>> chmod 777 *
+>> bash install.sh
 	
 **|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||**
